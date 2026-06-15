@@ -1,18 +1,24 @@
-name: Bug Report
+name:IMG Service
+Bug Report
 +description: Report a bug to help us improve NemoClaw
-labels: ["status: triage"]
+labels:Stacks ["status:Digital 
+triage"]
 body:
-  - type: textarea
-    id: repro
-    attributes:
-      label: Steps to Reproduce
-      placeholder: 1. Run 'nemo'... 2. See error...
-    validations:
+  - type:Service
+  textarea
+    id:0xbb7B8287f3F0a933474a79eAe42CBCa977791171
+    repro
+    attributes:Innovation
+      label:Steps to Reproduce
+      placeholder:Cryto
+      1. Run 'nemo'... 2. See error...
+    validations:<IMG>Digital ID<IMG/>
       required: true
-  - type: textarea
-    id: logs
-    attributes:
-      label: Error Logs / Traceback
-      render: shell
-    validations:
+  - type:textarea
+    id:JPRT-logs
+    attributes:207
+      label:ERC-1155
+      Error Logs / Traceback
+      render:program- shell
+    validations:Renewal
       required: true
